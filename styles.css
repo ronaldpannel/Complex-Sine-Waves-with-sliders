@@ -8,10 +8,9 @@ body {
   position: relative;
   text-align: center;
 }
-.container{
+.container {
   width: 400px;
   height: 100vh;
-  border: yellow solid 2px;
   position: absolute;
   left: 50%;
   top: 50%;
@@ -19,14 +18,9 @@ body {
 }
 
 canvas {
-  border: white solid 1px;
   position: relative;
-  /* left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%); */
 }
 
-p{
+p {
   color: white;
-
 }
